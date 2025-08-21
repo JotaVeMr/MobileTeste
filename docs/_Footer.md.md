@@ -1,0 +1,1 @@
+_Aplicativo Mobile PharmSync_
